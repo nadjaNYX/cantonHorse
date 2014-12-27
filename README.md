@@ -1,4 +1,5 @@
 cantonHorse
+horse sounds like host,also means 跑马
 ===========
 1.环境条件仅限广东电信。
 2.大量小众网站

@@ -12,6 +12,10 @@
 !youtubejavascript
 ||s.ytimg.com
 
+![[[[[[[[[[google]]]]]]]]]
+!chat,video and other clients
+^http(s|):\/\/clients\d\.google\.com\/.+
+
 ![[[[[[[[[wikipediazh(autoproxy)]]]]]]]]]]
 zh.wikipedia.org
 |https://zh.wikipedia.org

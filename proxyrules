@@ -4,9 +4,9 @@
 ![[[[[[[[[[[youtube(self-archit]]]]]]]]]
 ||www.youtube.com
 !youtube 视频实际地址
-^http(s|):\/\/r\d{1,2}---sn-.{8}\.googlevideo\.com\/.+
+^http(s|):\/\/r\d{1,2}---sn-.{8}\.googlevideo\.com\/.*
 !youtube视频中转
-^http(s|):\/\/redirector\.googlevideo\.com\/.+
+^http(s|):\/\/redirector\.googlevideo\.com\/.*
 !youtube图片
 ||i.ytimg.com
 !youtubejavascript
@@ -14,7 +14,7 @@
 
 ![[[[[[[[[[google]]]]]]]]]
 !chat,video and other clients
-^http(s|):\/\/clients\d\.google\.com\/.+
+^http(s|):\/\/clients\d\.google\.com\/.*
 
 ![[[[[[[[[wikipediazh(autoproxy)]]]]]]]]]]
 zh.wikipedia.org

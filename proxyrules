@@ -122,10 +122,13 @@ twitoaster.com
 ![[[[[[[[[facebook(autoproxy)]]]]]]]]]
 .facebook.com
 ||facebook.com
-/^https?:\/\/[^\/]+facebook\.com/
+^https?:\/\/[^\/]+facebook\.com/
 @@||*v6.facebook.com
 ||connect.facebook.net
 ||facebookquotes4u.com
+
+![[[[[[[Tumblr]]]]]]]
+^https:\/\/\d\d\.media\.tumblr\.com\/.+
 
 
 ![[[[[[[[[国内网站]]]]]]]
